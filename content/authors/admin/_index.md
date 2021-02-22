@@ -25,6 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: Ph.D student in Computer Science and Engineering
+    institution: University of Washington
+    year: 2019-present
   - course: B.Eng in Electronic Engineering
     institution: Tsinghua University
     year: 2015-2019
